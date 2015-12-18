@@ -9,6 +9,7 @@ Can be run manually with no arguments.
 Installation
 ============================
 Can install it's self into /etc/cron.d/max-uptime-keeper when run as
+
     max-uptime-keeper -i [username]
         or
     max-uptime-keeper --install [username]
